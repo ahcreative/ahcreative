@@ -24,7 +24,7 @@
 
 ## 🧠 About Me
 
-- 🎓 BS Data Science @ **FAST-NUCES Islamabad** (2022 – Present)
+- 🎓 BS Data Science @ **FAST-NUCES Islamabad** (2022 – 2026)
 - 🔧 I build end-to-end ML systems — from raw data ingestion all the way to monitored, auto-retraining production deployments
 - 🌊 Fascinated by real-time data streaming, drift detection, and making ML systems self-healing
 - 📄 Published an **IEEE-style research paper** alongside my AutoDrift MLOps project
@@ -163,7 +163,7 @@ Time-series forecasting with unsupervised clustering to improve accuracy on high
 
 ## 🎓 Education
 
-**Bachelor of Science in Data Science** · FAST-NUCES, Islamabad `Aug 2022 – Present`
+**Bachelor of Science in Data Science** · FAST-NUCES, Islamabad `Aug 2022 – June 2026`
 
 *Relevant Coursework:* Data Warehousing · MLOps · Data Visualization · Database Systems · Artificial Intelligence · Big Data Analytics · Probability & Advanced Statistics · Computer Networks · Parallel & Distributed Computing
 
