@@ -2,7 +2,7 @@
 
 # Hey, I'm Muhammad Anas 👋
 
-### Data Science Student · MLOps Engineer · Big Data Enthusiast
+### Data Science Graduate · MLOps Engineer · Big Data Enthusiast
 
 <p align="center">
   <a href="mailto:anashamid891@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
