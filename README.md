@@ -14,7 +14,7 @@
 <br/>
 
 *Building scalable ML pipelines, real-time streaming systems, and production-grade MLOps infrastructure.*
-*Currently pursuing BS Data Science at **FAST-NUCES, Islamabad**.*
+*BS Data Science from **FAST-NUCES, Islamabad**.*
 
 <br/>
 
